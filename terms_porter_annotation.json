@@ -1,0 +1,2627 @@
+{
+    "250мс": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "адаптивн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "алгебр": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "аналитическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "аппарат": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "аппроксимац": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "асимптотическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "ассоциативн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "без": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "бол": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "больш": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "бруннаминковск": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "бруннаминковского": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "быт": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "в": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "введен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "вгильбертов": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "вевклидов": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "вединичн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "вейерштрасс": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "вектор": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "вид": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "вкласс": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "влиян": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "внешн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "вобщ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "воздейств": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "возмущен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "волн": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "вопрос": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "впограничн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "впространственновремен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "впроцесс": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "вработ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "врассмотрен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "враща": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "вращен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "врем": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "времен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "вряд": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "всвободн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "всевозможн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "всистем": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "вслуча": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "втермин": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "входн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "вчастн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "вчастности": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "выбор": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "выделен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "высокоскоростн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "вычислительн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "выявл": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "вявн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "вязк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "газов": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "гахов": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "где": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "гиперболическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "гиперплоск": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "гладкост": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "голоморфн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "градиент": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "градиентн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "границ": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "граничн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "давлен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "дальн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "дан": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "движен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "двойн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "двум": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "двупараметрическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "двух": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "действ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "диапазон": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "динамик": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "динамическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "дирихл": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "дифференциальн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "для": {
+        "amount": 8,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1355",
+            "http://www.mathnet.ru/rus/uzku1357",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "доказа": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "доказательств": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "дополнительн": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "достаточн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "друг": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "е": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "единствен": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "же": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "жестк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "жидк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "жидкост": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "завися": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "задач": {
+        "amount": 7,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1355",
+            "http://www.mathnet.ru/rus/uzku1357",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "заполнен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "и": {
+        "amount": 9,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1357",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "идеалами": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "известн": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "изменен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "имеет": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "интегральн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "интерполируем": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "интерполяц": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "интерполяцион": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "иоснова": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "иском": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "использ": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "использова": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "исследова": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "исследован": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "итерацион": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "их": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "капелл": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "кбезударн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "квазилевнеровск": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "квазилевнеровских": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "квазимногочлен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "кинтегральн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "класс": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "кнов": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "когд": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "комплекснозначн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "конечноразностн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "конкретн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "конструкц": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "контекст": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "конус": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "конусообразн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "конц": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "котор": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "кош": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "коэффициент": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "краев": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "кратн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "крежим": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "критическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "кром": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "круг": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "кругов": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "кстенк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "кусочноравномерн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "лагранж": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "лам": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "лаплас": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "лин": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "линейн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "луч": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "мал": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "марксаштрохеккера": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "мас": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "масс": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "межд": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1357",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "межфазн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "мест": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "метод": {
+        "amount": 4,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1355",
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "минимум": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "мног": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "многочл": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "многочлен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "множеств": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "моделирован": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "может": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "момент": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "на": {
+        "amount": 9,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1355",
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1357",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "наблюда": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "наблюден": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "найд": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "найт": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "наклон": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "налич": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "настоя": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "не": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "независим": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "неконцентрическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "некотор": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "неположительн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "непрерывн": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "неравенств": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "несжима": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "нестационарн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "них": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "нов": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "нормальн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "облада": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "област": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "обобща": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "обобщен": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "оболочк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "общ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "ограничен": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "одн": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "одномерн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "однопараметрическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "означа": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "оператор": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "описыва": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "оптимальн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "оригинал": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "оси": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "основ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "основа": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "основн": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "осуществл": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "от": {
+        "amount": 4,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1355",
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "отмет": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "относительн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "отрезк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "отсутств": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "оценк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "параболическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "параллельн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "параметр": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "параметрическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "пенлев": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "перемен": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "перемещен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "переход": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "плавн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "плоск": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "по": {
+        "amount": 4,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "поверхн": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "поверхностн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "погрешн": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "подготовительн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "подтвержд": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "показа": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "пол": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "полиномиальн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "получ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "получен": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "понят": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "порожда": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "порядк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "порядок": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "посвящ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "постановк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "постро": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "построен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "поточечн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "прав": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "предлож": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "предложен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "предполагаетс": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "представл": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "предшварциа": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "преобразован": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "при": {
+        "amount": 7,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1357",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "привед": {
+        "amount": 4,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "привод": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "применен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "пример": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "принцип": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "пристеночн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "провед": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "продемонстрирова": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "производн": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "произвольн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "происход": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "пространств": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "прохожден": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "прям": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "прямоугольн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "псевдообращен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "работ": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "рабоч": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "равномерн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "радиальн": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "разложен": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "разностн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "разрешим": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "ран": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "распределен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "рассматрива": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "рассмотр": {
+        "amount": 5,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1355",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "расстоян": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "растека": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "растекан": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "расчет": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "реализ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "регуляризац": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "режим": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "резк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "результ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "результат": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "реш": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "решен": {
+        "amount": 5,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1355",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "ряд": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "с": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "сам": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "сбольш": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "свед": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "свойств": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "свходн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "связ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "связа": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "сгуща": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "сдополнительн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "седлов": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "семейств": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "сетк": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "сеточн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "сиспользован": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "сист": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "систем": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "скорост": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "след": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "сло": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "служ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "случ": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "случа": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "смал": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "со": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "собол": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "совпада": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "совпаден": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "содерж": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "соответств": {
+        "amount": 6,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "соотношен": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "состоян": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "сотошедш": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "сполусферическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "сприменен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "сприсоединен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "сразличн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "сред": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "стабилизац": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "старш": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "стенк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "степен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "стру": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "струи": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "сувеличен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "сумматорн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "суперпозиц": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "существен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "существован": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "сфер": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "сферическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "сформулирова": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "сфункционалами": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "схем": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "сходим": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "сцентр": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "счетн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "так": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "теорем": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "течен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "тип": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "то": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "тог": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348"
+        ]
+    },
+    "тождеств": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "тольк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "тонк": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "точек": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "точк": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "три": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "у": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "увеличен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "угл": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "углов": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "уда": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "удал": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "удар": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "ударн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "удзав": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "удовлетворя": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "узл": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "указа": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "униформизац": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "управлен": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "упруг": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "уравнен": {
+        "amount": 6,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1355",
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "уровн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "услов": {
+        "amount": 3,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "устанавлива": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "установл": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "устойчив": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "уточня": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "физическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "форм": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "формул": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "функц": {
+        "amount": 7,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1352",
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1355",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "функции": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "функциона": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "функционал": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "фур": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "хорнич": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "ххадвигером": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "цел": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "центр": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354"
+        ]
+    },
+    "цилиндрическ": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "част": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "частн": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1355"
+        ]
+    },
+    "частот": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "чем": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    },
+    "через": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1348",
+            "http://www.mathnet.ru/rus/uzku1349"
+        ]
+    },
+    "числен": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "что": {
+        "amount": 5,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1356",
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "шаров": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1357"
+        ]
+    },
+    "шишкин": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "эквивалентн": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "эксперимент": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1353"
+        ]
+    },
+    "эллиптическ": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1350"
+        ]
+    },
+    "эт": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "явля": {
+        "amount": 4,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1349",
+            "http://www.mathnet.ru/rus/uzku1350",
+            "http://www.mathnet.ru/rus/uzku1354",
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "явн": {
+        "amount": 2,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1353",
+            "http://www.mathnet.ru/rus/uzku1356"
+        ]
+    },
+    "ядром": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1358"
+        ]
+    },
+    "якобиа": {
+        "amount": 1,
+        "docs": [
+            "http://www.mathnet.ru/rus/uzku1352"
+        ]
+    }
+}
