@@ -1,0 +1,81 @@
+[
+    {
+        "query": "на задач",
+        "articles_score": [
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1349",
+                "score": 0.021238226498613504
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1357",
+                "score": 0.013070122868133496
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1358",
+                "score": 0.018262363459583788
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1353",
+                "score": 0.042271057188994356
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1355",
+                "score": 0.02639608150541964
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1352",
+                "score": 0.008268478381008672
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1350",
+                "score": 0.007325013915107784
+            }
+        ]
+    },
+    {
+        "query": "уравнен точек",
+        "articles_score": [
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1352",
+                "score": 0.06333121688436553
+            }
+        ]
+    },
+    {
+        "query": "для два",
+        "articles_score": [
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1349",
+                "score": 0.01110096878921939
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1354",
+                "score": 0.009755396814768556
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1357",
+                "score": 0.006312315586026713
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1358",
+                "score": 0.004409973902566608
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1353",
+                "score": 0.006706835310153382
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1355",
+                "score": 0.009197945568210353
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1352",
+                "score": 0.006503597876512371
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1350",
+                "score": 0.0035376713723885974
+            }
+        ]
+    }
+]

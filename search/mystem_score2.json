@@ -1,0 +1,64 @@
+[
+    {
+        "query": "на задач",
+        "articles_score": [
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1356",
+                "score": 0.0011581188072003815
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1349",
+                "score": 0.0016000325625794743
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1354",
+                "score": 0.0006681454656925278
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1357",
+                "score": 0.0014139822646051167
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1358",
+                "score": 0.012335635660348293
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1353",
+                "score": 0.009721695174346517
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1355",
+                "score": 0.008648451868425262
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1352",
+                "score": 0.001321766029956957
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1350",
+                "score": 0.0007414785046100004
+            }
+        ]
+    },
+    {
+        "query": "уравнен точек",
+        "articles_score": []
+    },
+    {
+        "query": "для два",
+        "articles_score": [
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1357",
+                "score": 0.019152499433056455
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1350",
+                "score": 0.1258410901267889
+            },
+            {
+                "article": "http://www.mathnet.ru/rus/uzku1352",
+                "score": 0.010351399060612743
+            }
+        ]
+    }
+]
